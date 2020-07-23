@@ -1,0 +1,6 @@
+apiVersion: sample.k8s.io/v1alpha1
+kind: MyDeployment
+metadata:
+  name: mydep
+spec:
+  replicas: 3
